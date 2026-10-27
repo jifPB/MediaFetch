@@ -17,8 +17,6 @@ A lightweight C# tool for fetching playing media
 # Installation
 
 * Get the precompiled program [here](https://github.com/jifPB/MediaFetch/releases/)
-* The program currently only supports 64-bit
-* Currently only available on Windows
 * To clone this repository run:
 
 ```powershell
