@@ -22,4 +22,4 @@ A lightweight C# tool for fetching playing media
 * To clone this repository run:
 
 ```powershell
-git clone [https://github.com/jifPB/MediaFetch](https://github.com/jifPB/MediaFetch)
+git clone https://github.com/jifPB/MediaFetch
